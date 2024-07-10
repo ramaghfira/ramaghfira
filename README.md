@@ -1,4 +1,4 @@
-![image](https://github.com/ramaghfira/ramaghfira/assets/144989368/e7a6327a-3ee1-4578-86ea-f6dd5901aae9)[![MasterHead](https://github.com/ramaghfira/ramaghfira/blob/main/1658333498363.jpg)](https://ramaghfira.io)
+[![MasterHead](https://github.com/ramaghfira/ramaghfira/blob/main/1658333498363.jpg)](https://ramaghfira.io)
 <h3 align="center">A Beginner</h3>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hallo+Guys!+👋;+I'm+Risyda+Azifatil+Maghfira;" />
