@@ -1,8 +1,10 @@
 [![MasterHead](https://github.com/ramaghfira/ramaghfira/blob/main/1658333498363.jpg)](https://ramaghfira.io)
 <h3 align="center">A Beginner</h3>
-
-<p align="left"> <a href="https://twitter.com/ra_maghfira" target="blank"><img src="https://img.shields.io/twitter/follow/ra_maghfira?logo=twitter&style=for-the-badge" alt="ra_maghfira" /></a> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramaghfira" alt="ramaghfira" /></a> </p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hallo+Guys!+👋;+I'm+Risyda+Azifatil+Maghfira;" />
+</h1>
+<p align="center"> <a href="https://twitter.com/ra_maghfira" target="blank"><img src="https://img.shields.io/twitter/follow/ra_maghfira?logo=twitter&style=for-the-badge" alt="ra_maghfira" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramaghfira" alt="ramaghfira" /></a> </p>
 
 - 🔭 I’m currently studying on **Andalas University**
 
