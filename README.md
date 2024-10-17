@@ -19,7 +19,7 @@
 <a href="https://instagram.com/ra_maghfira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ra_maghfira" height="30" width="40" /></a>
 <a href="https://www.behance.net/risydamaghfira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="risydamaghfira" height="30" width="40" /></a>
 <a href="https://medium.com/@risyda.maghfira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@risyda.maghfira" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ramaghfira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ramaghfira" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ramaghfira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="@ramaghfira" height="30" width="40" /></a>
 </p>
 
 
