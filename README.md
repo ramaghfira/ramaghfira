@@ -5,7 +5,7 @@
 </h1>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramaghfira" alt="ramaghfira" /></a> </p>
 
-- 🔭 I’m currently studying on **Andalas University**
+- 🔭 I’m currently studying on **Polstat STIS**
 
 - 🌱 I’m currently learning **Everything**
 
